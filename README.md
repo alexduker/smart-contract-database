@@ -54,9 +54,3 @@ contract SmartContractDatabase {
         return contractList;
     }
 }
-
-
-
-
-
-tyih
